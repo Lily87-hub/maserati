@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="color" transform="translate(-291 -83)">
+    <g id="Groupe_2326" data-name="Groupe 2326" transform="translate(-57.419 -153.704)">
+      <path id="Ellipse_9" data-name="Ellipse 9" d="M15.31-.5A15.81,15.81,0,0,1,26.49,26.49,15.81,15.81,0,1,1,4.131,4.131,15.707,15.707,0,0,1,15.31-.5Zm0,30.621A14.81,14.81,0,1,0,.5,15.31,14.827,14.827,0,0,0,15.31,30.121Z" transform="translate(352.419 240.394)" fill="#fff"/>
+      <path id="Tracé_4" data-name="Tracé 4" d="M383.195,246.909l-18.7,24.236a15.308,15.308,0,0,0,18.7-24.236Z" transform="translate(-6.016 -3.247)" fill="#fff"/>
+      <path id="Tracé_4_-_Contour" data-name="Tracé 4 - Contour" d="M383.107,246.2l.4.312a15.976,15.976,0,0,1,4.407,5.409,15.809,15.809,0,0,1-23.722,19.618l-.4-.3Zm-9.362,27.557a14.807,14.807,0,0,0,9.532-26.141L365.2,271.045A14.666,14.666,0,0,0,373.745,273.761Z" transform="translate(-6.016 -3.247)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1394" data-name="Rectangle 1394" width="38" height="38" transform="translate(291 83)" fill="#fff" opacity="0"/>
+  </g>
+</svg>

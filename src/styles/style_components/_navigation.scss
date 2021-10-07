@@ -1,0 +1,25 @@
+/*.sidebar {
+  position: relative;
+  display: grid;
+
+  .id {
+    grid-area: 1;
+    text-align: left;
+    user-select: none;
+    position: relative;
+
+    .idContent {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100%;
+
+      img {
+        border-radius: 50%;
+        width: 150px;
+        height: 130px;
+      }
+    }
+  }
+}*/

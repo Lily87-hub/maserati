@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+  <g id="close" transform="translate(-136 -83)">
+    <g id="Groupe_2500" data-name="Groupe 2500" transform="translate(171.096 85.776) rotate(90)">
+      <path id="Ligne_59" data-name="Ligne 59" d="M.5,32h-1V0h1Z" transform="translate(27.361 4.686) rotate(45)" fill="#fff"/>
+      <path id="Ligne_60" data-name="Ligne 60" d="M.5,32h-1V0h1Z" transform="translate(4.733 4.686) rotate(-45)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1391" data-name="Rectangle 1391" width="38" height="38" transform="translate(136 83)" fill="#fff" opacity="0"/>
+  </g>
+</svg>
