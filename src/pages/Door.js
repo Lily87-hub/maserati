@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Tires = () => {
+const Door = () => {
     return (
         <div>
-           <h1>Tires page</h1>
+            <h1>Doors here</h1>
         </div>
     );
 };
 
-export default Tires;
+export default Door;

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Colours = () => {
+const Colour = () => {
     return (
         <div>
             <h1>Colour change Page</h1>
@@ -8,4 +8,4 @@ const Colours = () => {
     );
 };
 
-export default Colours;
+export default Colour;

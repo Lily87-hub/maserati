@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Landscape = () => {
+const Background = () => {
     return (
         <div>
             <h1>Landscape Page</h1>
@@ -8,4 +8,4 @@ const Landscape = () => {
     );
 };
 
-export default Landscape;
+export default Background;

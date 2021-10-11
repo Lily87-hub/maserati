@@ -1,6 +1,7 @@
 import React from 'react';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import { faTimes} from "@fortawesome/free-solid-svg-icons";
+import Icons from "../icons/Icons";
 
 const Donut2 = () => {
     return (
@@ -10,19 +11,19 @@ const Donut2 = () => {
             </div>
             <div className="menu" id="menu">
                 <a href="/">
-                    <i className="fa fa-car" aria-hidden="true"></i>
+                    <object data="/media/color.svg" width="20" height="30" fill="green"></object>
                 </a>
                 <a href="/">
-                    <i className="fas fa-swatchbook" aria-hidden="true"></i>
+                    <object data="/media/rim.svg" width="20" height="30"></object>
                 </a>
                 <a href="/">
-                    <i className="fas fa-chair" aria-hidden="true"></i>
+                    <object data="/media/background.svg" width="20" height="30"></object>
                 </a>
                 <a href="/">
-                    <i className="far fa-circle" aria-hidden="true"></i>
+                    <object data="/media/seat.svg" width="20" height="30"></object>
                 </a>
                 <a href="/">
-                    <i className="fas fa-mountain" aria-hidden="true"></i>
+                    <object data="/media/door.svg" width="20" height="30"></object>
                 </a>
             </div>
         </div>

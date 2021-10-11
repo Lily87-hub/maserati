@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Seats = () => {
+const Rim = () => {
     return (
         <div>
-            <h1>Change seats</h1>
+           <h1>Tires page</h1>
         </div>
     );
 };
 
-export default Seats;
+export default Rim;
