@@ -1,9 +1,12 @@
 import React from 'react';
+import Navigation from "../components/Navigation";
+import Circle2 from "../components/circle/Circle2";
 
 const Colour = () => {
     return (
         <div>
-            <h1>Colour change Page</h1>
+            <Navigation/>
+            <Circle2/>
         </div>
     );
 };

@@ -1,6 +1,6 @@
 import React from 'react';
 import Navigation from "../components/Navigation";
-import Circle from "../components/circle/Circle";
+import Circle1 from "../components/circle/Circle1";
 // import Icons from "../components/icons/Icons";
 
 
@@ -9,7 +9,7 @@ const Home = () => {
         <div>
             <Navigation/>
           <h1>Home is here</h1>
-            <Circle/>
+            <Circle1/>
 
             {/*<Icons name="color"></Icons>*/}
             {/*<Icons name="door"></Icons>*/}

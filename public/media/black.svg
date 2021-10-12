@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="70" height="70" viewBox="0 0 70 70">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.793" y1="0.917" x2="0.109" y2="0.162" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#202020"/>
+      <stop offset="0.418" stop-color="#606060"/>
+      <stop offset="1" stop-color="#202020"/>
+    </linearGradient>
+  </defs>
+  <g id="black" transform="translate(-135 -170)">
+    <g id="Groupe_2202" data-name="Groupe 2202" transform="translate(139.455 174)">
+      <ellipse id="Ellipse_105" data-name="Ellipse 105" cx="24.111" cy="24.111" rx="24.111" ry="24.111" transform="translate(6.889 6.889)" fill="url(#linear-gradient)"/>
+      <path id="Ellipse_106" data-name="Ellipse 106" d="M31,1A30.008,30.008,0,0,0,19.323,58.643,30.008,30.008,0,0,0,42.678,3.357,29.812,29.812,0,0,0,31,1m0-1A31,31,0,1,1,0,31,31,31,0,0,1,31,0Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_1400" data-name="Rectangle 1400" width="70" height="70" transform="translate(135 170)" fill="#fff" opacity="0"/>
+  </g>
+</svg>
